@@ -1,0 +1,3 @@
+# ignore secrets file
+sptf_secrets.txt
+.env
